@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KakaoTalkNoAdv", "KakaoTalkNoAdv\KakaoTalkNoAdv.csproj", "{EE1B504B-8023-4BA9-9447-2A1C282C65AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE1B504B-8023-4BA9-9447-2A1C282C65AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1B504B-8023-4BA9-9447-2A1C282C65AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1B504B-8023-4BA9-9447-2A1C282C65AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1B504B-8023-4BA9-9447-2A1C282C65AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5B1FF17-BB1F-446A-889E-29B9EFD07C68}
+	EndGlobalSection
+EndGlobal
